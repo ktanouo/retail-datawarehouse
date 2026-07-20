@@ -1,0 +1,14 @@
+id_produit;nom_produit;categorie;prix_revient;prix_vente
+PROD001;Café Arabica;Alimentaire;3.2;5.5
+PROD002;Pâtes Bio;Alimentaire;1.1;2.2
+PROD003;Chocolat Noir;Alimentaire;1.8;3.4
+PROD004;Jus d'Orange Fresh;Alimentaire;2.0;3.8
+PROD005;Casque Audio Bluetooth;Électronique;25.0;59.9
+PROD006;Batterie Externe;Électronique;8.5;19.9
+PROD007;Enceinte Portable;Électronique;35.0;79.9
+PROD008;T-Shirt Coton Bio;Mode;6.0;15.0
+PROD009;Jean Denim Classique;Mode;18.0;45.0
+PROD010;Sweat à Capuche;Mode;15.0;39.9
+PROD011;Bougie Parfumée;Maison;4.0;12.5
+PROD012;Lampe de Bureau LED;Maison;12.0;29.9
+PROD013;Set de 3 Poêles;Maison;22.0;49.9

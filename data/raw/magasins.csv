@@ -1,0 +1,11 @@
+id_magasin;ville;region;format;surface
+STR001;Paris;Île-de-France;Hypermarché;5500
+STR002;Marseille;PACA;Supermarché;2200
+STR003;Lyon;Auvergne-Rhône-Alpes;Supermarché;2500
+STR004;Toulouse;Occitanie;Hypermarché;4800
+STR005;Nice;PACA;Express;600
+STR006;Nantes;Pays de la Loire;Supermarché;1800
+STR007;Montpellier;Occitanie;Express;500
+STR008;Strasbourg;Grand Est;Supermarché;2100
+STR009;Bordeaux;Nouvelle-Aquitaine;Hypermarché;5200
+STR010;Lille;Hauts-de-France;Supermarché;2400
